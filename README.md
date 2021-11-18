@@ -1,6 +1,6 @@
 # Weather Service
 
-A first try on ASP.NET Core.
+My first try on ASP.NET Core.
 
 ## Documentation
 
