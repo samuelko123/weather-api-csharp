@@ -1,6 +1,6 @@
-# Weather Service
+# Weather Service API
 
-My first try on ASP.NET Core.
+An API that gives current weather of given geo-coordinates, written ASP.NET Core.
 
 ## Documentation
 
